@@ -1,13 +1,13 @@
 name = "Sound​s"
-filename = "Sounds-2.0.4+1.20.1+forge.jar"
+filename = "Sounds-2.2.1+1.20.1+forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "244c3dddf48189817bb155dc15522b3722953ef6"
+hash = "e75686799054958804d711b1b6ceef4d132764b8"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5643512
+file-id = 5940443
 project-id = 925889

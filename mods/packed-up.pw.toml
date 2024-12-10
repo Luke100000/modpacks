@@ -1,13 +1,13 @@
 name = "Packed Up - A Farmer's Delight Addon"
-filename = "packedup-0.5.1-beta.jar"
+filename = "packedup-0.5.3-beta.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "127a80ed443f227d4fda1c5ae61b950d15bffc9d"
+hash = "e8a4991eb9fc2220d88b2f6ff37e0606b44c4117"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5715312
+file-id = 5869123
 project-id = 1007751

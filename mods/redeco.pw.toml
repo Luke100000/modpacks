@@ -1,13 +1,13 @@
 name = "Re:Deco"
-filename = "redeco-forge-1.12.1-1.20.jar"
+filename = "redeco-1.13-1.20.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "aa55c250769afdcc4211de26d74a9fdaf2450b6f"
+hash = "2e158cedcf09bef3a6b42bba3e4bdb65a3cebb55"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5603009
+file-id = 5775514
 project-id = 897377

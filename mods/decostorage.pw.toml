@@ -1,13 +1,13 @@
 name = "Decorative Storage"
-filename = "deco-storage-forge-1.20.1-2.0308.jar"
+filename = "decorative_storage-2.1111-forge-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "887a3efaa334ee0f28e805b7b0819a1614a34a4f"
+hash = "fcd5be45e1bdcb5b7ea20346dd911b1e5983e953"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5598306
+file-id = 5950570
 project-id = 826577

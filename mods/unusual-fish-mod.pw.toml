@@ -1,13 +1,13 @@
 name = "Unusual Fish Mod"
-filename = "unusualfishmod-1.0.7.jar"
+filename = "unusualfishmod-1.1.5.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "407328332fd6abab3c34dd5caecdba60ea8a8b1f"
+hash = "789cb0123d3719f93f3d45e32657c32d1051478e"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5603731
+file-id = 5864570
 project-id = 568300

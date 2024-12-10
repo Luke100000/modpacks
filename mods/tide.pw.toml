@@ -1,13 +1,13 @@
 name = "Tide"
-filename = "Tide-forge-1.20.1-1.3.1.jar"
+filename = "Tide-forge-1.20.1-1.3.4.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "72504fdaca96fe1c9c9fd73e9233eff308d89841"
+hash = "5c71a6e508c7da36ed9fe390ba176fe53e095653"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5740708
+file-id = 5871539
 project-id = 884685

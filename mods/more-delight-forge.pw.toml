@@ -1,13 +1,13 @@
 name = "More Delight (Forge & Neoforge)"
-filename = "moredelight-24.09.10-1.20-forge.jar"
+filename = "moredelight-24.11.06-1.20-forge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "ac9c601848cfa127abe2e7f131615a97a926a186"
+hash = "3f6826582446dc176914b93125a6d88b9019a151"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5711942
+file-id = 5880063
 project-id = 977515

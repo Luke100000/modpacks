@@ -1,0 +1,13 @@
+name = "Glazed ReSymmetry"
+filename = "glazedresymmetry-1_20_1-1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8fe8fc1a1d39dc0c647620bc9857af7cdc66ee87"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5389057
+project-id = 714619

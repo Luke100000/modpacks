@@ -1,0 +1,13 @@
+name = "Anger Management Mod"
+filename = "anger-management-2.0.1-1.19.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BZhKsqyQ/versions/6DZEQpRD/anger-management-2.0.1-1.19.4.jar"
+hash-format = "sha512"
+hash = "e661f1b1e6e7cb6c7371a60a02d3839b341cd541a668f99f4cbe7e72847841ea61647b0a2b7087191b5d525ab5f94587bffd51802136e5ca0466e1027b37dd95"
+
+[update]
+[update.modrinth]
+mod-id = "BZhKsqyQ"
+version = "6DZEQpRD"

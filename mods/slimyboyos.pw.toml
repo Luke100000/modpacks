@@ -1,0 +1,13 @@
+name = "SlimyBoyos"
+filename = "SlimyBoyos-forge-1.20.1-7.0.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "58b77616d78ef25005cce4d298041caa02fd9dcb"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4766628
+project-id = 281993

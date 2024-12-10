@@ -1,0 +1,13 @@
+name = "Panda Genetics Tweak"
+filename = "panda_genetics_tweak-1.20.1-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2a065011882b8dd5973ee40fd8f6b0e6534fbe6d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4943771
+project-id = 432848

@@ -1,0 +1,13 @@
+name = "Colored End Crystals"
+filename = "ColoredEndCrystals-1.0.2-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d380b7d0e8a61af4915440822654022b4d1db94f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5421559
+project-id = 950952

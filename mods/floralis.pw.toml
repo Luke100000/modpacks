@@ -1,0 +1,13 @@
+name = "Floralis"
+filename = "floralis-1.20.1-10.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "082cc5ec2f93bc91217ae250f3882d3b09323ef1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5389498
+project-id = 458358

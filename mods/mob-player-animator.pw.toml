@@ -1,0 +1,13 @@
+name = "Mob Player Animator"
+filename = "Mob Player Animator-forge-1.20.1-1.3.1-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "55df6c470b0ca925ec06c165e99c7d21894e8dd7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5720674
+project-id = 1058791

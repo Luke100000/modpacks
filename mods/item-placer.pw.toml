@@ -1,0 +1,13 @@
+name = "Item placer"
+filename = "itemplacer-forge-1.9.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "217a985c8c20ea20ed148360151c4562e8692614"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5649521
+project-id = 1024631

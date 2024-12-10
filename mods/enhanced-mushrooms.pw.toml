@@ -1,0 +1,13 @@
+name = "Enhanced Mushrooms"
+filename = "enhanced_mushrooms-5.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8c82416022e838af7e19849e65199c478aa975fc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5338561
+project-id = 383725

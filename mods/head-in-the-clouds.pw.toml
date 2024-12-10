@@ -1,0 +1,13 @@
+name = "Head in the Clouds"
+filename = "head_in_the_clouds-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6105a15d61403ffe8b186ca088ec7b4132313b86"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5328977
+project-id = 821759

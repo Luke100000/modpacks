@@ -1,0 +1,13 @@
+name = "Lapidarist"
+filename = "lapidary-3.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "85c83f3452af30b287eb29263069fffdbc7066ef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5283707
+project-id = 610032

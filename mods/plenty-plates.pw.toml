@@ -1,0 +1,13 @@
+name = "Plenty Plates [Forge & Fabric]"
+filename = "PlentyPlates-v8.0.0-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c10c99d98155922476bdb49cdb31d6528770e2c9"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4613350
+project-id = 857969

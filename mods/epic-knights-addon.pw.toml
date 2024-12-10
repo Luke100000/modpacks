@@ -1,0 +1,13 @@
+name = "Epic Knights: Addon"
+filename = "[1.20.x-forge]-Epic-Knights-Addon-1.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aafb90df16875c2af8f8dd928394f966458c4708"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5193352
+project-id = 925866

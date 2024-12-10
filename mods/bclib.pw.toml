@@ -1,0 +1,7 @@
+name = "bclib"
+filename = "bclib-3.0.14.jar"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/8pky1j3fk6c5gj500r3so/bclib-3.0.14.jar?rlkey=otf1tnswig6783l5hblu0kcmx"
+hash-format = "sha256"
+hash = "39357bac798a70b071238ba86ea7d2aff86c73f712564acb8dffc637213f76f0"

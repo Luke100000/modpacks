@@ -1,0 +1,13 @@
+name = "Particle Mimicry"
+filename = "ParticleMimicry-1.20.1-0.4.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c98df2729e375e8a1913b15fd58c3790853622ff"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5216706
+project-id = 882458

@@ -1,0 +1,13 @@
+name = "One Warden For Each Ancient City"
+filename = "OneWardenForEachAncientCity-1.20-1.20.1-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b6529260de0573e04a2490997cee5f8e6f62b99a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4981393
+project-id = 953869

@@ -1,0 +1,13 @@
+name = "Surface"
+filename = "Surface-1.8.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BIc2Zafd/versions/BSKvc4Xr/Surface-1.8.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "c174f572b1e2b93a3f4d087610b76f4e53cac1f972be5023097c90309c076792c9b5e3c49ff1a7ba18595da0c101968e30a7b48be9317857ca287af6e9b4f87c"
+
+[update]
+[update.modrinth]
+mod-id = "BIc2Zafd"
+version = "BSKvc4Xr"

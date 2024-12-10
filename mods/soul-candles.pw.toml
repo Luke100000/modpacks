@@ -1,0 +1,13 @@
+name = "Soul Candles"
+filename = "SoulCandles-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "877bf72980e81a784d1065de1748c80dde547cd4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5289026
+project-id = 973219

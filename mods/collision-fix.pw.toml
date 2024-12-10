@@ -1,0 +1,13 @@
+name = "Collision Fix"
+filename = "CollisionFix-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a6c39b00357be9309633d58a204c84419c9d8a9f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5114977
+project-id = 946375

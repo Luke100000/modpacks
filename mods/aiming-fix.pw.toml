@@ -1,0 +1,13 @@
+name = "Aiming Fix"
+filename = "aimingfix-1.0+1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1a0d6c7a552966e06768a24f04bcdc70b3dca16c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4915009
+project-id = 944968

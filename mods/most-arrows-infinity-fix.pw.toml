@@ -1,0 +1,13 @@
+name = "Most Arrows Infinity Fix"
+filename = "mostarrowsinfinityfix-1.1-forge-mc1.20.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bb73cf4b3df76185962fc383d430d2107b119f80"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4756917
+project-id = 900204

@@ -1,0 +1,13 @@
+name = "Mob Crossing"
+filename = "MobCrossing-1.20-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "38eef871f6c23ad89e4656e10295292e442771d8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5127187
+project-id = 577903

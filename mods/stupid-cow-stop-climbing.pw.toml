@@ -1,0 +1,13 @@
+name = "Stupid Cow, Stop Climbing!"
+filename = "scsc-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c9f7f382add6eca264212f8f8dc71150ef3a32fe"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4759552
+project-id = 914851

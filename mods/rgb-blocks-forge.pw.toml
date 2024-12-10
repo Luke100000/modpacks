@@ -1,0 +1,13 @@
+name = "RGB Blocks (Neo/Forge)"
+filename = "RGB Blocks-1.20.1-1.1.9.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4b130cc9df4e38d330066380ca94f7e7f42ccf63"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5368939
+project-id = 485287

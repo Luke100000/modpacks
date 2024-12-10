@@ -1,0 +1,13 @@
+name = "[1.20.1] OpenStairs"
+filename = "OpenStairs 1.20.1 v1.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1c7733e2b1439b6ae61aced65d130592a3b0e6d8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4750035
+project-id = 662311

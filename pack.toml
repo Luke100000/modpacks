@@ -1,0 +1,12 @@
+name = "Hell"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c959e69c17e27fb9079a4ca8caf0ad169130c5c6d0edc2eb6350067d326425dc"
+
+[versions]
+forge = "47.3.7"
+minecraft = "1.20.1"

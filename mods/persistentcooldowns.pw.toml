@@ -1,0 +1,13 @@
+name = "PersistentCooldowns"
+filename = "PersistentCooldowns-Forge-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d43f7e67f760da76ca0b6e7048bd7345470b9a4b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5302806
+project-id = 1011130

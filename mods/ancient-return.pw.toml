@@ -1,0 +1,13 @@
+name = "Ancient Return"
+filename = "ancientreturn_1.20.1_1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "809fba644f1487bd70967091b8be3417cd8c5089"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4743758
+project-id = 911204

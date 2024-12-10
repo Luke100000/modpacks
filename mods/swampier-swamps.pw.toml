@@ -1,0 +1,7 @@
+name = "swampier-swamps"
+filename = "swampier_swamps-1.20-4.0.0.jar"
+
+[download]
+url = "https://www.dropbox.com/scl/fi/9ima0tflrwgmefd34pv7c/swampier_swamps-1.20-4.0.0.jar?rlkey=vhx4ryn48tt4bilci4i51bvkp"
+hash-format = "sha256"
+hash = "21dd7690ab932dc8678877715d9234eab2a406b206e5fc0b5ff9b305a4e71260"

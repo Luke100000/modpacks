@@ -1,0 +1,13 @@
+name = "Sisser"
+filename = "sisser-1.10.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "29e4d06627e4eef41753a5a61cf9dad6ccad34f6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5177668
+project-id = 338997

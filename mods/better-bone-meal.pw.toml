@@ -1,0 +1,13 @@
+name = "Better Bone Meal"
+filename = "Better Bone Meal 1.20.1 Forge v.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f74f93ea9e6fd01d2906fb03cb7c7619037ca929"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4837227
+project-id = 635804

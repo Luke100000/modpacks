@@ -1,0 +1,13 @@
+name = "Size Controller"
+filename = "pehkuicontroller-forge-1.20.1-1.4.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7ef026ae0e3771ceae94dba1a41de9dc7ac0dfaa"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5289645
+project-id = 997023

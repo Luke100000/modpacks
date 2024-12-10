@@ -1,0 +1,13 @@
+name = "Mwti's Stone Expansion"
+filename = "StoneExpansion-2.2.1-mc1.20.1-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "129acdce715f75f3bed5334caa2bfd7087dd2da7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4767668
+project-id = 907720

@@ -1,0 +1,13 @@
+name = "Bagged"
+filename = "bagged-1.0204-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ef08f820276f3c87f7029badee7bc4680f0fbc88"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5249181
+project-id = 993101

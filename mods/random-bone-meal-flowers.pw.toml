@@ -1,0 +1,13 @@
+name = "Random Bone Meal Flowers"
+filename = "randombonemealflowers-1.20.1-4.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7801154d3e90a261ae8876f4997061d4553a1fe4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5571983
+project-id = 345572

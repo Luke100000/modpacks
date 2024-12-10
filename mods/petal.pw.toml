@@ -1,0 +1,13 @@
+name = "Petal"
+filename = "petal-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "7ac4aa36eb315947eabe64f4084467eb835df26c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4860089
+project-id = 934089

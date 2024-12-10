@@ -1,0 +1,13 @@
+name = "Waffle's Moss"
+filename = "wafflesmoss-v1.0-FORGE-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b9ac064d77bf948c46c03f005983cf68250af1e2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4657246
+project-id = 891881

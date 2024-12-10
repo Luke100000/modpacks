@@ -1,0 +1,13 @@
+name = "Battle Music ♫"
+filename = "battlemusic-1.20.1-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0e9c9c908f6460e10cb28d1655ea4051eeff5b81"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5553251
+project-id = 1027182

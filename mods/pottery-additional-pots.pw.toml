@@ -1,0 +1,13 @@
+name = "Pottery (Additional Pots)"
+filename = "pottery-1.0.2-forge-mc1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c5d185e71ed2738644716bc004776fe48c4e8137"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5655649
+project-id = 955781

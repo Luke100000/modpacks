@@ -1,0 +1,13 @@
+name = "Artemis' Thin Logs"
+filename = "thinlogs-1.20.1-0.2r.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "be4251453ac1e578864124481e095d11c4cc6e3d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4781958
+project-id = 863021

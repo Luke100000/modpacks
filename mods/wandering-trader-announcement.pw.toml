@@ -1,0 +1,13 @@
+name = "Wandering Trader Announcement"
+filename = "Wandering-Trader-Announcement-NeoForge-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4c06335907f250170b9286a5d4ec4e33e7a6dee5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5333712
+project-id = 1014823

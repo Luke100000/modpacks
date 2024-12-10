@@ -1,0 +1,13 @@
+name = "Abstract "
+filename = "abstractmod-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f0917bf2712bd1944bb32dd83591df0845277b33"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4862968
+project-id = 936063

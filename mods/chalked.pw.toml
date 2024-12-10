@@ -1,0 +1,13 @@
+name = "Chalked"
+filename = "Chalked_1.2-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e8ff240519b2bbe40ca054995662a53b2c5850a8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4791532
+project-id = 714932

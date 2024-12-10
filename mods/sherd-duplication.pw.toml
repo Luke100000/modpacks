@@ -1,0 +1,13 @@
+name = "Sherd Duplication"
+filename = "SherdDuplication-Forge-1.20.1-2.0.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e2f120ea42734242649427f08be79bd956d54791"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5368451
+project-id = 861561

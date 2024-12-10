@@ -1,0 +1,13 @@
+name = "Trimmed"
+filename = "trimmed-forge-1.20.1-2.1.4-all.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "41a2373a373a1eda8e5a740f47cf4967256ddc4a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4845938
+project-id = 857036

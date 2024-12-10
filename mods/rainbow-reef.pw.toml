@@ -1,0 +1,13 @@
+name = "Rainbow Reef"
+filename = "rainbowreef-2.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "122b57ce2b11ef8dff8be5d7fd8acc1a9678485d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4999914
+project-id = 936849

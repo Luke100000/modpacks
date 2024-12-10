@@ -1,0 +1,13 @@
+name = "Turf"
+filename = "turf-1.20.1-1.0.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4f523f8e2e56b9c60a23727dc51c0ce5be3373a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5245748
+project-id = 336879

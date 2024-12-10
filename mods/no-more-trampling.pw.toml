@@ -1,0 +1,13 @@
+name = "No More Trampling"
+filename = "no_more_trampling-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "da9da64922884c2683b460892ce039c2760ba6f3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5482677
+project-id = 843745

@@ -1,0 +1,13 @@
+name = "Dusty Decorations"
+filename = "DustyDecoRefabricated-1.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3144115ab235bd9729f8fae609b562ceb922dea6"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5362784
+project-id = 843344

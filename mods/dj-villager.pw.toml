@@ -1,0 +1,13 @@
+name = "DJ Villager"
+filename = "djvillager-v1.1.0-fabric-1.20-1.20.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e7f41d2460980830ec8e0d64260e23a1ca731a51"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5377734
+project-id = 559167

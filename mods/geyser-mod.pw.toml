@@ -1,0 +1,13 @@
+name = "Geyser Mod"
+filename = "geysermod-1.20.1-1.0.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3912b1614eecc38c576e070733777ef5279a88a1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5275978
+project-id = 386327

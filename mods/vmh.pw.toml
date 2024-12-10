@@ -1,0 +1,13 @@
+name = "VMH - Variable Mob Height"
+filename = "vmh-1.2.2-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6aa374c60ef7f3878902c36985e4a13840be9832"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4705136
+project-id = 622514

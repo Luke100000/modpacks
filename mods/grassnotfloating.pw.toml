@@ -1,0 +1,13 @@
+name = "GrassNotFloating"
+filename = "grassnotfloating-1.20.1-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4f826d4065d76282538c5a01be3c5144805d02b3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4929292
+project-id = 945900
